@@ -10,7 +10,7 @@ The Logistic Regression model had an accuracy of 74%. I tuned the hyperparameter
 Project Intro/Objective
 I created three models. 
 The first one predicts the home team scores
-The second predicts the away team scores
+The second predicts the away team scores.
 The third finds out whether a match was a lose, draw or win.
 
 By Brian Chege
